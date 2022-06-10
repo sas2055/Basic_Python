@@ -1,3 +1,3 @@
-# Basic Python
-This is my first repository.
-This is my first commit.
+# Basic_Python
+This is My First Repository.
+This is My First Commit.
