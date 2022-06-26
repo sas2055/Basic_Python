@@ -1,6 +1,7 @@
 """
 # operators in python:
         used to perform some operations on variables and values.
+---------------------------------------------------------------------------------
 
 # 1. arithmetic operators:
         arithmetic operators are used with numeric values to perform common mathematical operations.
