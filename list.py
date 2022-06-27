@@ -11,18 +11,22 @@
 ->  []
 -----------------------------------------------------------------
 
-# list methods
+# list methods:
 l = [1, 2, 3]
 print('list is: ', l)
 print('add element is: ', l.append('java'), l)
-print('remove element is: ', l.pop(),l)
+print('remove element is: ', l.pop(), l)
 print('add a iterables: ', l.extend('python'), l)
 print('reverse the list: ', l.reverse(), l)
-print('insert the element: ', l.insert(-1,10), l)
+print('insert the element: ', l.insert(-1, 10), l)
+-----------------------------------------------------------
+
+l = [1, 2, 3]
 l1 = l.copy()
+print('list is: ', l1)
 print('l1 is shallow copy of l: ', l1)
 print('empty list is: ', l1.clear(), l1)
-print('add a iterables', l1.extend([100,4,30]), l1)
+print('add a iterables', l1.extend([100, 4, 30]), l1)
 print('increase order is: ', l1.sort(), l1)
 print('decrease order is: ', l1.sort(reverse=True), l1)
 print('index of 1 is: ', l.index(1))
