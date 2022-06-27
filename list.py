@@ -3,7 +3,7 @@
     - list is an ordered and changeable collection of data objects.
     - list is mutable data type and background data structure is array.
     - its support indexing and slicing.
-    - it accepts homo./ hetro. values.
+    - it accepts homogeneous / heterogeneous values.
     - it preserves sequence order and duplicates are allowed.
 -------------------------------------------------------------------------
 
