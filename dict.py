@@ -22,8 +22,8 @@ print('all keys and values are: ', d.items())
 print('remove pair is: ', d.popitem(), d)
 print('remove value is: ', d.pop(5), d)
 print('value is: ', d.get(3), d)
-t = [1,2,3,4]
-print('dictionary of t is: ', dict.fromkeys(t,'num'))
+t = [1, 2, 3, 4]
+print('dictionary of t is: ', dict.fromkeys(t, 'num'))
 print('clear the dict is: ', d.clear(), d)
 ======================================================================
 """
