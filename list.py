@@ -5,6 +5,7 @@
     - its support indexing and slicing.
     - it accepts homogeneous / heterogeneous values.
     - it preserves sequence order and duplicates are allowed.
+    - it is a collection of elements separate by comma
 -------------------------------------------------------------------------
 
 # Que. how to declare a list
