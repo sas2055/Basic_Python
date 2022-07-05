@@ -106,6 +106,7 @@ print('x == y is: ', x == y)
 ----------------------------------------------------------------
 
 # and operator:
+    - Returns True if both the statements are true
     - value of true is 1
     - value of false is 0
     # x and y:
@@ -123,6 +124,7 @@ print(name == 'shiv' and age == 3)
 --------------------------------------------------------------------------
 
 # or operator:
+    - Returns True if one of the statements is true
     - value of true is 1
     - value of false is 0
     # x and y:
@@ -140,6 +142,11 @@ print(name == 'shiv' or age == 3)
 -------------------------------------------------------------------------
 
 # not operator:
+        - reverse the result
+        not True - False
+        not False - True
+-------------------------------------------------------------------------
+
 name = 'shital'
 age = 27
 print(not(name == 'shivansh'))
